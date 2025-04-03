@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+footer{
+  background-color: rgb(98, 13, 177);
+   color: white;
+   padding: 10px;
+}
+.img{
+    width: 25px;
+    height: 25px;
+}
+ .p{
+    text-align: center;
+ font-family: 'Times New Roman', Times, serif;
+}
+.d1{
+    width: 320px;
+    height: 70px;
+    background-color:rgb(255, 227, 190);
+    text-align: center;
+    padding: 20px;
+    color: gray;
+}
+.d2{
+    width: 370px;
+    height: 270px;
+    background-color:palevioletred;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    top: 5px;
+    left: 90px;
+}
+u{
+    font-size: 23px;
+    font-family: "Dancing Script", cursive;
+}
+.d3{
+    width: 370px;
+    height: 100px;
+    background-color:cornflowerblue;
+    padding:20px;
+    position: relative;
+    top: 10px;
+    left: 220px;
+}
+.d4{
+    width: 370px;
+    height: 270px;
+    background-color:rgb(68, 6, 127);
+    padding: 20px;
+    position: relative;
+    top:15px;
+    left:330px;
+}
+.d5{
+    width: 400px;
+    height: 300px;
+    background-color:rgb(206, 176, 138);
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    top:20px;
+    left:450px;
+}
+button{
+    text-align: center;
+    background-color: rgb(8, 8, 75);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 14px;
+    margin-left: 125px;
+}
+.dd4{
+    background-color: aqua;
+    padding: 17px;
+}
+label{
+    background-color: gainsboro;
+}
+table{
+    width: 350px;
+    border-spacing: 0px;
+}
+table td{
+    padding: 8px;
+    border: 1px solid black;
+}
+thead td{
+    background-color:rgb(206, 176, 138) ;
+}
+.t1{
+    background-color: blue;
+}
+.t2{
+    background-color: aqua;
+}
+
